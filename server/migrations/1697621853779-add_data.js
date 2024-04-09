@@ -48,13 +48,13 @@ module.exports = {
         const hashedPassword = await bcrypt.hash("12345678", saltRounds);
 
         await usersCollection.insertOne({
-            firstname: "Tây",
-            lastname: "Nguyên",
+            firstname: "1",
+            lastname: "1",
             username: "admin",
             password: hashedPassword,
             phone: "0867835779",
-            email: "pttnguyen528@gmail.com",
-            address: "Gia Lai",
+            email: "1@gmail.com",
+            address: "q9",
             idRole: adminRole._id,
         });
 

@@ -426,7 +426,7 @@ function Detail() {
                                                     - Giặt ở chế độ bình thường, với đồ có màu tương tự.
                                                     <br />
                                                 </p>
-                                                <div
+                                                {/* <div
                                                     className="youtube-embed-wrapper"
                                                     style={{
                                                         position: "relative",
@@ -446,7 +446,7 @@ function Detail() {
                                                             position: "absolute"
                                                         }}
                                                     />
-                                                </div>
+                                                </div> */}
                                                 <p></p>
                                             </div>
                                             <a id="detail_more">

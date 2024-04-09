@@ -168,8 +168,7 @@ function Register() {
                     </div>
                     <div className="clearfix req_pass">
                       <a className="come-back" href="/">
-                        <i className="fa fa-long-arrow-left" /> Quay lại trang
-                        chủ
+                        <i className="fa fa-long-arrow-left" /> Quay lại trang chủ
                       </a>
                     </div>
                   </form>

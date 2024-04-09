@@ -8,7 +8,7 @@ function Footer() {
                 <div className="container-fluid">
                     <div className="row">
                         <div className="list-gallery clearfix">
-                            <ul>
+                            {/* <ul>
                                 <li>
                                     <div className="gallery_item fade-box">
                                         <picture>
@@ -105,7 +105,7 @@ function Footer() {
                                         </picture>
                                     </div>
                                 </li>
-                            </ul>
+                            </ul> */}
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,7 @@ function Footer() {
                         <div className="row">
                             <div className="col-xs-12 col-sm-6 col-md-3 col-lg">
                                 <div className="footer-col footer-block">
-                                    <h4 className="footer-title"> KENTA VN</h4>
+                                    <h4 className="footer-title"> SHOP 2HAND</h4>
                                     <div className="footer-content toggle-footer">
                                         <ul>
                                             <li className="item">
@@ -233,7 +233,7 @@ function Footer() {
                             <div className="col-xs-12 col-sm-6 col-md-3 col-lg">
                                 <div className="footer-col footer-block">
                                     <h4 className="footer-title">
-                                        Kết nối với Kenta
+                                        Kết nối với SHop
                                     </h4>
                                     <div className="footer-content">
                                         <div className="social-list">
@@ -292,12 +292,12 @@ function Footer() {
                                             </li>
                                             <li>
                                                 <img src="//theme.hstatic.net/1000096703/1000836887/14/communications.png?v=241" />
-                                                <span>Hotline:</span> 0867835779{" "}
+                                                <span>Hotline:</span> 0834505170{" "}
                                             </li>
                                             <li>
                                                 <img src="//theme.hstatic.net/1000096703/1000836887/14/envelopes.png?v=241" />
                                                 <span>Mail:</span>{" "}
-                                                pttnguyen528@gmail.com
+                                                shop@gmail.com
                                             </li>
                                         </ul>
                                     </div>
@@ -310,8 +310,8 @@ function Footer() {
                     <div className="container">
                         <div className="main-footer--border">
                             <p>
-                                Copyright © 2023{" "}
-                                <a href="https://kenta.vn"> KENTA.VN</a>.
+                                Copyright © 2024{" "}
+                                <a href="http://localhost:3000/"> Shop quan ao</a>.
                             </p>
                         </div>
                     </div>

@@ -33,9 +33,9 @@ function Home() {
                                 <div className="slide--image">
                                     <a style={{ cursor: "pointer" }} title="">
                                         <picture>
-                                            <source media="(max-width: 600px)" srcSet="" />
+                                            <source media="(max-width: 400px)" srcSet="" />
                                             <source
-                                                media="(min-width: 601px)"
+                                                media="(min-width: 399px)"
                                                 srcSet="assets/images/banner/image1.webp"
                                             />
                                             <img
@@ -53,9 +53,9 @@ function Home() {
                                 <div className="slide--image">
                                     <a style={{ cursor: "pointer" }} title="">
                                         <picture>
-                                            <source media="(max-width: 600px)" data-srcset="" />
+                                            <source media="(max-width: 400px)" data-srcset="" />
                                             <source
-                                                media="(min-width: 601px)"
+                                                media="(min-width: 399px)"
                                                 data-srcset="assets/images/banner/image2.jpg"
                                             />
                                             <img
@@ -74,9 +74,9 @@ function Home() {
                                 <div className="slide--image">
                                     <a style={{ cursor: "pointer" }} title="">
                                         <picture>
-                                            <source media="(max-width: 600px)" data-srcset="" />
+                                            <source media="(max-width: 400px)" data-srcset="" />
                                             <source
-                                                media="(min-width: 601px)"
+                                                media="(min-width: 399px)"
                                                 data-srcset="assets/images/banner/image3.webp"
                                             />
                                             <img
@@ -95,9 +95,9 @@ function Home() {
                                 <div className="slide--image">
                                     <a style={{ cursor: "pointer" }} title="">
                                         <picture>
-                                            <source media="(max-width: 600px)" data-srcset="" />
+                                            <source media="(max-width: 400px)" data-srcset="" />
                                             <source
-                                                media="(min-width: 601px)"
+                                                media="(min-width: 399px)"
                                                 data-srcset="assets/images/banner/image4.webp"
                                             />
                                             <img
@@ -200,7 +200,7 @@ function Home() {
                 </section>
                 {/* 3. Nhóm san phẩm 1 */}
                 {/* 4. Nhóm banner */}
-                <section className="section no-border wrapper-home-banner">
+                {/* <section className="section no-border wrapper-home-banner">
                     <div className="container-fluid">
                         <div className="row">
                             <div className="col-xs-12 col-sm-4 home-banner-pd">
@@ -235,6 +235,7 @@ function Home() {
                                     <a
                                         className="link-banner "
                                         href="https://kenta.vn/collections/so-mi"
+                                        // href="http://localhost:3000/collection/so-mi"
                                     >
                                         <div className="fg-image fade-box">
                                             <picture>
@@ -286,7 +287,7 @@ function Home() {
                             </div>
                         </div>
                     </div>
-                </section>
+                </section> */}
                 {/* 5. Nhóm san phẩm 1 */}
                 {/* 6. Nhóm san phẩm 3 */}
                 {/* Blog */}

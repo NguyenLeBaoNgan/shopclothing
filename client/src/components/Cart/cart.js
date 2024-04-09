@@ -139,7 +139,7 @@ const Cart = () => {
     };
 
 
-    // -empty-cart--------
+    // -empty-cart
     const emptycart = () => {
         confirmAlert({
             title: "Xác nhận",
