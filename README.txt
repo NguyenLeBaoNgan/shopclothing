@@ -7,7 +7,7 @@ Chào mừng bạn đến với cửa hàng quần áo 2HAND! Chúng tôi chuyê
 - **Nguyễn Lê Bảo Ngân** - 2011060674
 - **Hồ Quốc Thành** - 2011061014
 - **Huỳnh Quốc Anh** - 2011060011
-
+- **Nguyễn Mai Ngọc Lâm** - 2011064417
 ## Tính năng 🌟
 
 - Đa dạng sản phẩm: Chúng tôi cung cấp một loạt các loại quần áo từ các thương hiệu nổi tiếng và phổ biến.
