@@ -1,4 +1,4 @@
-# Welcome to 2HAND Clothing Store! 🛍️
+#Welcome to 2HAND Clothing Store! 🛍️
 
 Chào mừng bạn đến với cửa hàng quần áo 2HAND! Chúng tôi chuyên cung cấp các sản phẩm quần áo second-hand chất lượng và đa dạng, mang lại cho bạn trải nghiệm mua sắm thú vị và tiết kiệm.
 
