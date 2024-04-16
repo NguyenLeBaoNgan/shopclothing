@@ -413,7 +413,7 @@ function Detail() {
                                             <h2>Mô tả</h2>
                                         </div>
                                         <div className="description-content">
-                                            <div className="description-productdetail">
+                                            <div className="description-productdetail" style={{ fontSize: '13px' }}>
                                                 <p>
                                                     {product.description}
                                                 </p>
@@ -426,27 +426,7 @@ function Detail() {
                                                     - Giặt ở chế độ bình thường, với đồ có màu tương tự.
                                                     <br />
                                                 </p>
-                                                {/* <div
-                                                    className="youtube-embed-wrapper"
-                                                    style={{
-                                                        position: "relative",
-                                                        paddingBottom: "56.25%",
-                                                        height: 0
-                                                    }}
-                                                >
-                                                    <iframe
-                                                        className="iframe-youtube-embed"
-                                                        width={640}
-                                                        height={360}
-                                                        src="https://www.youtube.com/embed/3cyhVEOIo44"
-                                                        style={{
-                                                            aspectRatio: "16 / 9",
-                                                            width: "100%",
-                                                            height: "100%",
-                                                            position: "absolute"
-                                                        }}
-                                                    />
-                                                </div> */}
+                                                
                                                 <p></p>
                                             </div>
                                             <a id="detail_more">

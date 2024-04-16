@@ -102,32 +102,7 @@ function Header() {
   };
   return (
     <>
-      <div className="promo-bar" id="topbar">
-        <div className="container">
-          <div id="slideText">
-            <p>
-              <a style={{ cursor: "pointer", color: "white" }}>
-                Free ship Toàn Quốc với đơn hàng &gt; 500K
-              </a>
-            </p>
-            <p>
-              <a style={{ cursor: "pointer", color: "white" }}>
-                Đổi sản phẩm trong 7 ngày{" "}
-              </a>
-            </p>
-            <p>
-              <a style={{ cursor: "pointer", color: "white" }}>
-                Sản phẩm được bảo hành{" "}
-              </a>
-            </p>
-            <p>
-              <a href="">
-                Hotline mua hàng: <b>(028) 7300 6200 </b>{" "}
-              </a>
-            </p>
-          </div>
-        </div>
-      </div>
+      
       <header className="main-header">
         <div className="wrapper-header  header-transparent " id="themes-header">
           <div className="container">
@@ -140,11 +115,11 @@ function Header() {
                   itemType="http://schema.org/Organization"
                 >
                   <a href="/">
-                    <h1 className="logo">
+                    <h1 className="logo" style={{ color: '#00CCFF' }}> 2HANDSHOP 
                       <img
                         itemProp="logo"
-                        src="https://file.hstatic.net/1000096703/file/logo_website__191___70_px__979fdef210f7474d8a09b42724033b5c.png"
-                        alt="KENTA.VN"
+                        src="2HANDSHOP"
+                        alt=""
                         className="img-responsive logoimg lazyload"
                       />
                     </h1>
