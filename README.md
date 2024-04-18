@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hồ Quốc Thành:
+🔭 I’m currently working on HUTECH University<br>👯 I’m looking to collaborate on NLBN<br>🤝 I’m looking for help with NLBN<br>🌱 I’m currently learning Flutter<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
